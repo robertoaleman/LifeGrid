@@ -2,7 +2,7 @@ Author: Roberto Aleman, ventics.com , license: GPL v3
 <br><strong>LifeGrid is a 2D cellular automaton that simulates the game of life.</strong>
 
 This implementation demonstrates a 2D cellular automaton, specifically the "Game of Life," visualized using the HTML5 <code>&lt;canvas&gt;</code> element and JavaScript. It provides a dynamic, in-browser simulation of this classic computational model.
-
+<img src="lifegrid.jpg"/>
 <strong>Key Features:</strong>
 <ul>
  	<li><strong>2D Grid Simulation:</strong>
