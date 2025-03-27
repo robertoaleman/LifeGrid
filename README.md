@@ -1,4 +1,3 @@
-<strong>LifeGrid</strong>
 Author: Roberto Aleman, ventics.com , license: GPL v3
 <strong>Explanation of the Latest 2D Cellular Automaton on LifeGrid</strong>
 
